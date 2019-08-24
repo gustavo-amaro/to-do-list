@@ -13,8 +13,6 @@ function renderTodos(){
         
 
         var linkElement = document.createElement('a');
-
-
         linkElement.setAttribute('href', '#');
         var linkText = document.createTextNode(' Excluir');
         linkElement.appendChild(linkText);
