@@ -12,6 +12,7 @@ input{
     width: 80%;
     border-radius: 5px;
     padding: 5px 0;
+    margin-top: 10px;
 }
 button{
     width: 19%;
@@ -20,6 +21,7 @@ button{
     color: #fff;
     background: #2962ff;
     border-color: #1e88e5;
+    margin-top: 10px;
 }
 ul{
     list-style: none;
